@@ -26,8 +26,8 @@
 <br><br>
 
 ## 🌱 Actualmente Explorando (Active Learning)
-- **Simulación Avanzada:** Iniciando experimentación intensiva en el ecosistema de **NVIDIA (Isaac Sim, Omniverse)** y motores como MuJoCo.
-- **Transferencia Sim2Real:** Estudiando metodologías para cerrar la brecha entre el entrenamiento de IA en entornos virtuales (Gemelos Digitales) y su despliegue estable en hardware real mediante aprendizaje por refuerzo (DRL).
+- **Procesamiento Semántico de Escenas:** Mi mayor interés actual es dotar a los robots de comprensión contextual profunda. Estoy experimentando intensivamente con el uso de modelos de IA para procesar escenas físicas, abarcando desde modelos fundacionales complejos (como **gemini-robotics**) hasta modelos pequeños y cuantizados para inferencia local (**Edge-AI**).
+- **Simulación Avanzada y Sim2Real:** Incursionando en el ecosistema de **NVIDIA (Isaac Sim, Omniverse)** y motores como MuJoCo para cerrar la brecha entre el entrenamiento de agentes de IA y su despliegue estable en hardware real.
 
 ## 💞️ Buscando Colaborar
 - Interesado en contribuir activamente a proyectos open source enfocados en automatización industrial inteligente, herramientas satélites de ROS 2 y despliegue nativo de *Edge AI* en sistemas embebidos.
