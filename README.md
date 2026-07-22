@@ -11,7 +11,7 @@
 - **Ingeniería de Software:** C++ moderno (sistemas de tiempo real), Python (Deep Learning, PyTorch, Análisis de Datos) y desarrollo de pipelines reproducibles.
 
 ## 🔭 Proyectos Destacados y Experimentos
-- **Robot Kinoca & Gemini-Robotics:** Actualmente desarrollando arquitecturas experimentales de IA encarnada integrando el modelo fundacional **gemini-robotics** con el robot **Kinoca** para dotar al manipulador de capacidades complejas de manipulación, razonamiento semántico espacial y toma de decisiones interactiva.
+- **Robot Kinova & Gemini-Robotics:** Actualmente desarrollando arquitecturas experimentales de IA encarnada integrando el modelo fundacional **gemini-robotics** con el robot **Kinova Gen3** para dotar al manipulador de capacidades complejas de manipulación, razonamiento semántico espacial y toma de decisiones interactiva.
 
 <a href="https://github.com/roncanciovl/burger_delivery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roncanciovl&repo=burger_delivery&theme=radical&show_owner=true" alt="Burger Delivery Repo Badge" />
