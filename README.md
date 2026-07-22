@@ -10,6 +10,14 @@
 - **Lenguajes:** Python, C++, Data Science stack.
 - **Intereses adicionales:** Blockchain.
 
+## 🔭 Proyectos Destacados y Experimentos
+- **Robot Kinoca & Gemini-Robotics:** Actualmente realizando experimentos avanzados de IA encarnada (*Embodied AI*) integrando el modelo fundacional **gemini-robotics** con el robot **Kinoca** para tareas complejas de manipulación, interacción y razonamiento espacial.
+
+<a href="https://github.com/roncanciovl/burguer_delivery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roncanciovl&repo=burguer_delivery&theme=radical&show_owner=true" alt="Burguer Delivery Repo Badge" />
+</a>
+<br><br>
+
 ## 🌱 Actualmente Aprendiendo
 - Profundizando en arquitecturas de Inteligencia Artificial para aplicarlas en ecosistemas **Robot Operating System (ROS 2)** y transferencia de simulación a realidad.
 
