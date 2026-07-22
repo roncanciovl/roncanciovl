@@ -13,8 +13,8 @@
 ## 🔭 Proyectos Destacados y Experimentos
 - **Robot Kinoca & Gemini-Robotics:** Actualmente realizando experimentos avanzados de IA encarnada (*Embodied AI*) integrando el modelo fundacional **gemini-robotics** con el robot **Kinoca** para tareas complejas de manipulación, interacción y razonamiento espacial.
 
-<a href="https://github.com/roncanciovl/burguer_delivery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roncanciovl&repo=burguer_delivery&theme=radical&show_owner=true" alt="Burguer Delivery Repo Badge" />
+<a href="https://github.com/roncanciovl/burger_delivery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roncanciovl&repo=burger_delivery&theme=radical&show_owner=true" alt="Burger Delivery Repo Badge" />
 </a>
 <br><br>
 
