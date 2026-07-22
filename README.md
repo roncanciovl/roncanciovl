@@ -9,7 +9,7 @@
 - **Automatización y Agentes de IA:** Desarrollo de agentes autónomos (Agentic AI) y flujos de trabajo basados en LLMs para la automatización avanzada de procesos de negocio.
 - **IA Encarnada y Percepción:** Fusión de sensores multimodales (RGB-D, LiDAR, Tacto), Localización espacial (AprilTags), Integración de LLMs/VLAs (Gemini-Robotics).
 - **Control y Mecatrónica:** Cinemática inversa/directa, planificación de trayectorias (Path Planning), control de latencias en red y estabilización de actuadores.
-- **Ingeniería de Software:** C++ moderno (sistemas de tiempo real), Python (Deep Learning, Análisis de Datos) y desarrollo de pipelines reproducibles.
+- **Arquitectura de Software Asistida por IA:** C++ moderno y Python. Experiencia usando agentes de codificación autónoma (como **Antigravity**) para elevar el flujo de desarrollo, pasando de la escritura manual de código a un enfoque de diseño arquitectónico y modelado UML, delegando la implementación a la inteligencia artificial.
 
 ## 🔭 Proyectos Destacados y Experimentos
 - **Robot Kinova & Gemini-Robotics:** Actualmente desarrollando arquitecturas experimentales de IA encarnada integrando el modelo fundacional **gemini-robotics** con el robot **Kinova Gen3** para dotar al manipulador de capacidades complejas de manipulación, razonamiento semántico espacial y toma de decisiones interactiva.
