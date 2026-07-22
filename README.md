@@ -1,19 +1,18 @@
 # Hola, soy Roncanciovl 👋
 
-**Ingeniero Mecatrónico y Desarrollador Robótico | Enfocado en ROS 2, Agentes de IA y Robótica Inteligente**
+**Ingeniero Mecatrónico y Arquitecto de Software Asistido por IA | Especialista en Sistemas Autónomos (ROS 2) y Agentes Inteligentes**
 
-> Construyo y orquesto ecosistemas robóticos y sistemas autónomos. Mi experiencia técnica se centra en el desarrollo sobre **ROS 2**, la integración de **Agentes de IA** para automatización de negocios y el control de manipuladores colaborativos (e.g., Kinova Gen3). Actualmente estoy incursionando con gran interés en las tecnologías *Sim2Real* y las plataformas de simulación avanzada.
+> Diseño y orquesto ecosistemas donde el software avanzado y el mundo físico convergen. Mi perfil se articula en dos grandes ejes: el desarrollo de **robótica inteligente** (Embodied AI) y la creación de **agentes autónomos** para la automatización de procesos. Al dominar herramientas de codificación asistida por IA (como Antigravity), elevo mi flujo de trabajo desde la programación tradicional hacia el diseño arquitectónico de alto nivel y el modelado de sistemas complejos.
 
-## 🛠️ Stack Tecnológico y Competencias (Core Competencies)
-- **Arquitectura y RobOps:** Ecosistema ROS 2 (Jazzy), MoveIt 2, Nav2, micro-ROS, gestión de árboles de transformación (TF2) y Dockerización de nodos.
-- **Automatización y Agentes de IA:** Desarrollo de agentes autónomos (Agentic AI) y flujos de trabajo basados en LLMs para la automatización avanzada de procesos de negocio.
-- **IA Encarnada y Percepción:** Fusión de sensores multimodales (RGB-D, LiDAR, Tacto), Localización espacial (AprilTags), Integración de LLMs/VLAs (Gemini-Robotics).
-- **Control y Mecatrónica:** Cinemática inversa/directa, planificación de trayectorias (Path Planning), control de latencias en red y estabilización de actuadores.
-- **Arquitectura de Software Asistida por IA:** C++ moderno y Python. Experiencia usando agentes de codificación autónoma (como **Antigravity**) para elevar el flujo de desarrollo, pasando de la escritura manual de código a un enfoque de diseño arquitectónico y modelado UML, delegando la implementación a la inteligencia artificial.
+## 🛠️ Competencias Core y Stack Tecnológico
+- **Robótica & IA Encarnada:** Ecosistema ROS 2 (Jazzy), MoveIt 2, Nav2, y Fusión de sensores multimodales (RGB-D, LiDAR, Tacto). Experiencia en la integración de modelos de IA para el razonamiento físico y control de manipuladores colaborativos (e.g., Kinova Gen3).
+- **Procesamiento Semántico & Edge AI:** Diseño de pipelines para dotar a los robots de comprensión contextual. Opero un espectro que va desde modelos fundacionales multimodales en la nube (Gemini-Robotics) hasta redes neuronales cuantizadas para inferencia local con latencia crítica (Edge-AI).
+- **Agentes de IA & Automatización de Negocios:** Diseño e implementación de sistemas multi-agente y flujos de trabajo basados en LLMs para automatizar decisiones lógicas y optimizar procesos empresariales complejos.
+- **Arquitectura de Software (AI-Augmented):** Desarrollo en C++ (tiempo real) y Python bajo un paradigma asistido. Delego la implementación de bajo nivel a agentes de codificación autónoma para concentrarme en la robustez arquitectónica, patrones de diseño (UML) y escalabilidad.
 
 ## 🔭 Proyectos Destacados y Experimentos
-- **Robot Kinova & Gemini-Robotics:** Actualmente desarrollando arquitecturas experimentales de IA encarnada integrando el modelo fundacional **gemini-robotics** con el robot **Kinova Gen3** para dotar al manipulador de capacidades complejas de manipulación, razonamiento semántico espacial y toma de decisiones interactiva.
-- **Automatización de Negocios con Agentes de IA:** Diseño e implementación de sistemas multi-agente para optimizar flujos de trabajo empresariales y toma de decisiones inteligentes (Demostrado en la plataforma de *Economía IA*).
+- **Interacción Semántica con Kinova & Gemini:** Desarrollo de arquitecturas experimentales que integran el modelo fundacional **gemini-robotics** con el robot **Kinova Gen3**. El objetivo es dotar al manipulador de capacidades complejas de manipulación basadas en el entendimiento semántico profundo de la escena.
+- **Plataforma Economía IA:** Implementación de agentes de inteligencia artificial orquestados para la automatización de flujos de trabajo en la toma de decisiones de negocio.
 
 <div align="center">
   <a href="https://github.com/roncanciovl/burger_delivery">
@@ -26,11 +25,10 @@
 <br><br>
 
 ## 🌱 Actualmente Explorando (Active Learning)
-- **Procesamiento Semántico de Escenas:** Mi mayor interés actual es dotar a los robots de comprensión contextual profunda. Estoy experimentando intensivamente con el uso de modelos de IA para procesar escenas físicas, abarcando desde modelos fundacionales complejos (como **gemini-robotics**) hasta modelos pequeños y cuantizados para inferencia local (**Edge-AI**).
-- **Simulación Avanzada y Sim2Real:** Incursionando en el ecosistema de **NVIDIA (Isaac Sim, Omniverse)** y motores como MuJoCo para cerrar la brecha entre el entrenamiento de agentes de IA y su despliegue estable en hardware real.
+- **Simulación Avanzada y Transferencia Sim2Real:** Mi principal área de investigación y aprendizaje activo actual es cerrar la brecha entre el entrenamiento virtual y el mundo físico. Para ello, estoy incursionando intensivamente en la creación de Gemelos Digitales usando el ecosistema de **NVIDIA (Isaac Sim, Omniverse)** y simuladores de física como MuJoCo.
 
 ## 💞️ Buscando Colaborar
-- Interesado en contribuir activamente a proyectos open source enfocados en automatización industrial inteligente, herramientas satélites de ROS 2 y despliegue nativo de *Edge AI* en sistemas embebidos.
+- Interesado en contribuir activamente a proyectos open source de automatización industrial, el desarrollo de herramientas puente para el ecosistema ROS 2 y el despliegue nativo de *Edge AI* en hardware embebido.
 
 ## 📫 Contacto
 - Email: [roncanciovl@hotmail.com](mailto:roncanciovl@hotmail.com)
