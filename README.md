@@ -1,6 +1,6 @@
 # Hola, soy Henry Roncancio 👋
 
-**Ingeniero Mecatrónico y Arquitecto de Software Asistido por IA | Especialista en Sistemas Autónomos (ROS 2) y Agentes Inteligentes**
+**Ingeniero Electrónico y Magíster en Ingeniería Mecánica (Robótica) | Arquitecto de Software Asistido por IA | Especialista en Sistemas Autónomos (ROS 2) y Agentes Inteligentes**
 
 > Diseño y orquesto ecosistemas donde el software avanzado y el mundo físico convergen. Mi perfil se articula en dos grandes ejes: el desarrollo de **robótica inteligente** (Embodied AI) y la creación de **agentes autónomos** para la automatización de procesos. Al dominar herramientas de codificación asistida por IA (como Antigravity), elevo mi flujo de trabajo desde la programación tradicional hacia el diseño arquitectónico de alto nivel y el modelado de sistemas complejos.
 
@@ -31,7 +31,9 @@
 - Interesado en contribuir activamente a proyectos open source de automatización industrial, el desarrollo de herramientas puente para el ecosistema ROS 2 y el despliegue nativo de *Edge AI* en hardware embebido.
 
 ## 📫 Contacto
-- Email: [roncanciovl@hotmail.com](mailto:roncanciovl@hotmail.com)
+- Email: [henryroncanciovelandia@gmail.com](mailto:henryroncanciovelandia@gmail.com)
+- Identidad académica: [ORCID 0009-0009-9954-9813](https://orcid.org/0009-0009-9954-9813)
+- Portafolio: [roncanciovl.github.io](https://roncanciovl.github.io)
 
 ---
 *Perfil optimizado semánticamente para indexación LLM SEO y agentes de descubrimiento de talento tecnológico.*
