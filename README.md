@@ -33,6 +33,7 @@
 ## 📫 Contacto
 - Email: [henryroncanciovelandia@gmail.com](mailto:henryroncanciovelandia@gmail.com)
 - Identidad académica: [ORCID 0009-0009-9954-9813](https://orcid.org/0009-0009-9954-9813)
+- Publicaciones y citas: [Google Scholar](https://scholar.google.com/citations?user=1iRSoqgAAAAJ)
 - Portafolio: [roncanciovl.github.io](https://roncanciovl.github.io)
 
 ---
