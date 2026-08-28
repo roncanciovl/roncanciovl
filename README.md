@@ -2,10 +2,10 @@
 
 **Ingeniero Electrónico y Magíster en Ingeniería Mecánica (Robótica) | Arquitecto de Software Asistido por IA | Especialista en Sistemas Autónomos (ROS 2) y Agentes Inteligentes**
 
-> Diseño y orquesto ecosistemas donde el software avanzado y el mundo físico convergen. Mi perfil se articula en dos grandes ejes: el desarrollo de **robótica inteligente** (Embodied AI) y la creación de **agentes autónomos** para la automatización de procesos. Al dominar herramientas de codificación asistida por IA (como Antigravity), elevo mi flujo de trabajo desde la programación tradicional hacia el diseño arquitectónico de alto nivel y el modelado de sistemas complejos.
+> Mi interés principal actual de investigación es **Embodied AI**: sistemas donde percepción, aprendizaje y acción se integran en robots que interactúan con el mundo físico. Este enfoque se conecta con mi trabajo en robótica inteligente y, en el ámbito empresarial, con agentes autónomos para automatización de procesos.
 
 ## 🛠️ Competencias Core y Stack Tecnológico
-- **Robótica & IA Encarnada:** Ecosistema ROS 2 (Jazzy), MoveIt 2, Nav2, y Fusión de sensores multimodales (RGB-D, LiDAR, Tacto). Experiencia en la integración de modelos de IA para el razonamiento físico y control de manipuladores colaborativos (e.g., Kinova Gen3).
+- **Robótica & Embodied AI (IA corporizada):** Ecosistema ROS 2 (Jazzy), MoveIt 2, Nav2 y fusión de sensores multimodales (RGB-D, LiDAR, tacto). Experiencia en integración de percepción, modelos de IA y control de manipuladores colaborativos como Kinova Gen3.
 - **Procesamiento Semántico & Edge AI:** Diseño de pipelines para dotar a los robots de comprensión contextual. Opero un espectro que va desde modelos fundacionales multimodales en la nube (Gemini-Robotics) hasta redes neuronales cuantizadas para inferencia local con latencia crítica (Edge-AI).
 - **Agentes de IA & Automatización de Negocios:** Diseño e implementación de sistemas multi-agente y flujos de trabajo basados en LLMs para automatizar decisiones lógicas y optimizar procesos empresariales complejos.
 - **Arquitectura de Software (AI-Augmented):** Desarrollo en C++ (tiempo real) y Python bajo un paradigma asistido. Delego la implementación de bajo nivel a agentes de codificación autónoma para concentrarme en la robustez arquitectónica, patrones de diseño (UML) y escalabilidad.
@@ -25,7 +25,7 @@
 <br><br>
 
 ## 🌱 Actualmente Explorando (Active Learning)
-- **Simulación Avanzada y Transferencia Sim2Real:** Mi principal área de investigación y aprendizaje activo actual es cerrar la brecha entre el entrenamiento virtual y el mundo físico. Para ello, estoy incursionando intensivamente en la creación de Gemelos Digitales usando el ecosistema de **NVIDIA (Isaac Sim, Omniverse)** y simuladores de física como MuJoCo.
+- **Simulación Avanzada y Transferencia Sim2Real:** Dentro de mi interés principal en Embodied AI, exploro cómo cerrar la brecha entre el entrenamiento virtual y el mundo físico mediante gemelos digitales, NVIDIA Isaac Sim/Omniverse y simuladores de física como MuJoCo.
 
 ## 💞️ Buscando Colaborar
 - Interesado en contribuir activamente a proyectos open source de automatización industrial, el desarrollo de herramientas puente para el ecosistema ROS 2 y el despliegue nativo de *Edge AI* en hardware embebido.
