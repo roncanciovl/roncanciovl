@@ -12,6 +12,7 @@
 
 ## 🔭 Proyectos Destacados y Experimentos
 - **Interacción Semántica con Kinova & Gemini:** Desarrollo de arquitecturas experimentales que integran el modelo fundacional **gemini-robotics** con el robot **Kinova Gen3**. El objetivo es dotar al manipulador de capacidades complejas de manipulación basadas en el entendimiento semántico profundo de la escena.
+- **[Awesome Embodied AI & Sim2Real](https://github.com/roncanciovl/awesome-embodied-ai):** mapa vivo de evidencia con 41 trabajos, metadatos estructurados, protocolo reproducible y análisis de brechas sobre VLA/VLM/LLM, ROS 2, Edge AI y transferencia Sim2Real. Es un proyecto personal de investigación en desarrollo, todavía sin DOI.
 - **Plataforma Economía IA:** Implementación de agentes de inteligencia artificial orquestados para la automatización de flujos de trabajo en la toma de decisiones de negocio.
 
 <div align="center">
@@ -21,11 +22,14 @@
   <a href="https://github.com/roncanciovl/economiaia-web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=roncanciovl&repo=economiaia-web&theme=radical&show_owner=true" alt="Economia IA Repo Badge" />
   </a>
+  <a href="https://github.com/roncanciovl/awesome-embodied-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roncanciovl&repo=awesome-embodied-ai&theme=radical&show_owner=true" alt="Awesome Embodied AI evidence map" />
+  </a>
 </div>
 <br><br>
 
 ## 🌱 Actualmente Explorando (Active Learning)
-- **Simulación Avanzada y Transferencia Sim2Real:** Dentro de mi interés principal en Embodied AI, exploro cómo cerrar la brecha entre el entrenamiento virtual y el mundo físico mediante gemelos digitales, NVIDIA Isaac Sim/Omniverse y simuladores de física como MuJoCo.
+- **Embodied AI reproducible:** A partir del mapa de evidencia exploro integración ROS 2 de modelos VLA/VLM/LLM, inferencia local y Edge AI, planificación semántica y transferencia Sim2Real. `burger_delivery` funciona como banco de pruebas experimental.
 
 ## 💞️ Buscando Colaborar
 - Interesado en contribuir activamente a proyectos open source de automatización industrial, el desarrollo de herramientas puente para el ecosistema ROS 2 y el despliegue nativo de *Edge AI* en hardware embebido.
