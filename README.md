@@ -12,7 +12,7 @@
 
 ## 🔭 Proyectos Destacados y Experimentos
 - **Interacción Semántica con Kinova & Gemini:** Desarrollo de arquitecturas experimentales que integran el modelo fundacional **gemini-robotics** con el robot **Kinova Gen3**. El objetivo es dotar al manipulador de capacidades complejas de manipulación basadas en el entendimiento semántico profundo de la escena.
-- **[Awesome Embodied AI & Sim2Real](https://github.com/roncanciovl/awesome-embodied-ai):** mapa vivo de evidencia con 41 trabajos, metadatos estructurados, protocolo reproducible y análisis de brechas sobre VLA/VLM/LLM, ROS 2, Edge AI y transferencia Sim2Real. Es un proyecto personal de investigación en desarrollo, todavía sin DOI.
+- **[Awesome Embodied AI & Sim2Real](https://github.com/roncanciovl/awesome-embodied-ai):** mapa vivo de evidencia con 41 trabajos, metadatos estructurados, protocolo reproducible y análisis de brechas sobre VLA/VLM/LLM, ROS 2, Edge AI y transferencia Sim2Real. Proyecto personal de investigación preservado en Zenodo: [DOI v1.0.0](https://doi.org/10.5281/zenodo.22179172).
 - **Plataforma Economía IA:** Implementación de agentes de inteligencia artificial orquestados para la automatización de flujos de trabajo en la toma de decisiones de negocio.
 
 <div align="center">
