@@ -1,19 +1,19 @@
 # Hola, soy Henry Roncancio 👋
 
-**Ingeniero Electrónico y Magíster en Ingeniería Mecánica (Robótica) | Arquitecto de Software Asistido por IA | Especialista en Sistemas Autónomos (ROS 2) y Agentes Inteligentes**
+**Ingeniero Electrónico y Magíster en Ingeniería Mecánica (Robótica) | Arquitecto de sistemas de IA | Especialista en Sistemas Autónomos (ROS 2) e Ingeniería de Agentes**
 
-> Mi interés principal actual de investigación es **Embodied AI**: sistemas donde percepción, aprendizaje y acción se integran en robots que interactúan con el mundo físico. Este enfoque se conecta con mi trabajo en robótica inteligente y, en el ámbito empresarial, con agentes autónomos para automatización de procesos.
+> Mi interés principal actual de investigación es **Embodied AI**: sistemas donde percepción, aprendizaje y acción se integran en robots que interactúan con el mundo físico. Diseño y opero arquitecturas de agentes de IA para procesos académicos y de negocio, con reglas de negocio, trazabilidad, revisión humana y gobierno del dato.
 
 ## 🛠️ Competencias Core y Stack Tecnológico
 - **Robótica & Embodied AI (IA corporizada):** Ecosistema ROS 2 (Jazzy), MoveIt 2, Nav2 y fusión de sensores multimodales (RGB-D, LiDAR, tacto). Experiencia en integración de percepción, modelos de IA y control de manipuladores colaborativos como Kinova Gen3.
 - **Procesamiento Semántico & Edge AI:** Diseño de pipelines para dotar a los robots de comprensión contextual. Opero un espectro que va desde modelos fundacionales multimodales en la nube (Gemini-Robotics) hasta redes neuronales cuantizadas para inferencia local con latencia crítica (Edge-AI).
-- **Agentes de IA & Automatización de Negocios:** Diseño e implementación de sistemas multi-agente y flujos de trabajo basados en LLMs para automatizar decisiones lógicas y optimizar procesos empresariales complejos.
-- **Arquitectura de Software (AI-Augmented):** Desarrollo en C++ (tiempo real) y Python bajo un paradigma asistido. Delego la implementación de bajo nivel a agentes de codificación autónoma para concentrarme en la robustez arquitectónica, patrones de diseño (UML) y escalabilidad.
+- **Ingeniería de Agentes de IA:** Diseño y operación de sistemas multiagente y flujos basados en LLM, con orquestación por grafos de estado, control de acceso, trazabilidad y aprobación humana.
+- **Arquitectura y Gobierno del Dato:** Diseño de arquitecturas de software asistidas por IA, con criterios de verificación, reglas de negocio y despliegues que preservan los datos reservados.
 
 ## 🔭 Proyectos Destacados y Experimentos
 - **Interacción Semántica con Kinova & Gemini:** Desarrollo de arquitecturas experimentales que integran el modelo fundacional **gemini-robotics** con el robot **Kinova Gen3**. El objetivo es dotar al manipulador de capacidades complejas de manipulación basadas en el entendimiento semántico profundo de la escena.
 - **[Awesome Embodied AI & Sim2Real](https://github.com/roncanciovl/awesome-embodied-ai):** mapa vivo de evidencia con 41 trabajos, metadatos estructurados, protocolo reproducible y análisis de brechas sobre VLA/VLM/LLM, ROS 2, Edge AI y transferencia Sim2Real. Proyecto personal de investigación preservado en Zenodo: [DOI v1.0.0](https://doi.org/10.5281/zenodo.22179172).
-- **Plataforma Economía IA:** Implementación de agentes de inteligencia artificial orquestados para la automatización de flujos de trabajo en la toma de decisiones de negocio.
+- **Procesos con agentes de IA:** Diseño y operación de arquitecturas de agentes para automatizar flujos de trabajo con revisión humana. No se publican datos reservados, resultados comerciales ni repositorios privados.
 
 <div align="center">
   <a href="https://github.com/roncanciovl/burger_delivery">
